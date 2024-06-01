@@ -1,0 +1,2 @@
+package particle-simulator
+	imports github.com/andlabs/ui: build constraints exclude all Go files in /home/lothbrok/go/pkg/mod/github.com/andlabs/ui@v0.0.0-20200610043537-70a69d6ae31e
